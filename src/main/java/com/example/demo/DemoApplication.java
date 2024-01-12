@@ -14,6 +14,6 @@ public class DemoApplication {
 	}
 	@GetMapping("/")
 	public String index() {
-		return "Hello Varshil, KD-24 batch (FTP)\n";
+		return "Hello Varshil, KD-24 batch (Azure)\n";
 	}
 }
